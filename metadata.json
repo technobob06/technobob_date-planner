@@ -1,0 +1,17 @@
+
+{
+  "name": "Bobby & Enni's Date",
+  "short_name": "BobbyEnni",
+  "description": "Special date planner for Bobby & Enni",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3616/3616930.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#e5989b"
+}
